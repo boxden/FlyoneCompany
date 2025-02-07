@@ -1,3 +1,22 @@
+## v1.1.0
+
+All installed mods will be updated to their latest versions.
+Any missing dependencies will be installed.
+The following mods will be downloaded and installed:
+
+- Mirage will be updated to: `1.18.0`
+- ReservedItemSlotCore will be updated to: `2.0.42`
+- ReservedFlashlightSlot will be updated to: `2.0.10`
+- ReservedWalkieSlot will be updated to: `2.0.7`
+- ControlCompany will be updated to: `1.3.3`
+- EnemySoundFixes will be updated to: `1.6.4`
+- BetterEXP will be updated to: `2.6.0`
+
+The following missing dependencies will be installed:
+- VirusTLNR MaskedInvisFix `0.0.2`
+- VirusTLNR MaskedFixes `0.0.3`
+
+
 ## v1.0.0
 
 Initial release
