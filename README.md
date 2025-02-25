@@ -1,4 +1,4 @@
 # FlyoneCompany
  Custom mods for Lethal Company v69
 
-Profile code: `0194e166-8143-efd1-7cb2-f423652a5178`
+Profile code: `01953c40-2a36-e160-2bad-5014afa3f5bc`
