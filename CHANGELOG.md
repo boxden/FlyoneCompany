@@ -1,3 +1,22 @@
+## v1.2.0
+
+All installed mods will be updated to their latest versions.
+Any missing dependencies will be installed.
+The following mods will be downloaded and installed:
+
+- LethalCompany_InputUtils will be updated to: `0.7.10`
+- Mirage will be updated to: `1.18.2`
+- ReservedItemSlotCore will be updated to: `2.0.44`
+- LethalEmotesAPI will be updated to: `1.15.11`
+- More_Suits will be updated to: `1.5.1`
+- EnemySoundFixes will be updated to: `1.6.5`
+- loaforcsSoundAPI will be updated to: `2.0.4`
+- BetterEXP will be updated to: `2.6.2`
+
+The following missing dependencies will be installed:
+- ButteryStancakes MaskFixes `1.2.2`
+
+
 ## v1.1.0
 
 All installed mods will be updated to their latest versions.
