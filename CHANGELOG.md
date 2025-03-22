@@ -1,3 +1,25 @@
+## v1.3.0
+
+All installed mods will be updated to their latest versions.
+Any missing dependencies will be installed.
+The following mods will be downloaded and installed:
+
+- DetourContext_Dispose_Fix will be updated to: `1.0.4`
+- AutoHookGenPatcher will be updated to: `1.0.6`
+- Mirage will be updated to: `1.19.0`
+- ReservedItemSlotCore will be updated to: `2.0.48`
+- LethalEmotesAPI will be updated to: `1.15.13`
+- OpenBodyCams will be updated to: `3.0.5`
+- More_Suits will be updated to: `1.5.2`
+- ModelReplacementAPI will be updated to: `2.4.16`
+- LethalLib will be updated to: `0.16.4`
+- NoJumpDelay will be updated to: `1.1.1`
+- EnemySoundFixes will be updated to: `1.6.6`
+- loaforcsSoundAPI will be updated to: `2.0.5`
+- BepInEx_Faster_Load_AssetBundles_Patcher will be updated to: `1.0.0`
+- MaskFixes will be updated to: `1.3.1`
+
+
 ## v1.2.0
 
 All installed mods will be updated to their latest versions.
