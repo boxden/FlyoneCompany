@@ -1,8 +1,7 @@
 ## v1.3.0
 
-All installed mods will be updated to their latest versions.
-Any missing dependencies will be installed.
-The following mods will be downloaded and installed:
+All mods updated to their latest versions.
+The following mods updated:
 
 - DetourContext_Dispose_Fix will be updated to: `1.0.4`
 - AutoHookGenPatcher will be updated to: `1.0.6`
@@ -22,9 +21,8 @@ The following mods will be downloaded and installed:
 
 ## v1.2.0
 
-All installed mods will be updated to their latest versions.
-Any missing dependencies will be installed.
-The following mods will be downloaded and installed:
+All mods updated to their latest versions.
+The following mods updated:
 
 - LethalCompany_InputUtils will be updated to: `0.7.10`
 - Mirage will be updated to: `1.18.2`
@@ -35,15 +33,14 @@ The following mods will be downloaded and installed:
 - loaforcsSoundAPI will be updated to: `2.0.4`
 - BetterEXP will be updated to: `2.6.2`
 
-The following missing dependencies will be installed:
+Missing dependencies installed:
 - ButteryStancakes MaskFixes `1.2.2`
 
 
 ## v1.1.0
 
-All installed mods will be updated to their latest versions.
-Any missing dependencies will be installed.
-The following mods will be downloaded and installed:
+All mods updated to their latest versions.
+The following mods updated:
 
 - Mirage will be updated to: `1.18.0`
 - ReservedItemSlotCore will be updated to: `2.0.42`
@@ -53,7 +50,7 @@ The following mods will be downloaded and installed:
 - EnemySoundFixes will be updated to: `1.6.4`
 - BetterEXP will be updated to: `2.6.0`
 
-The following missing dependencies will be installed:
+Missing dependencies installed:
 - VirusTLNR MaskedInvisFix `0.0.2`
 - VirusTLNR MaskedFixes `0.0.3`
 
