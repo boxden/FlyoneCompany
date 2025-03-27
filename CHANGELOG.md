@@ -1,3 +1,12 @@
+## v1.3.2
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- FairAI will be updated to: `1.4.6`
+- LethalLib will be updated to: `1.0.1`
+
+
 ## v1.3.1
 
 All mods updated to their latest versions.
