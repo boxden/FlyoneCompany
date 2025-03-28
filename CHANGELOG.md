@@ -3,7 +3,7 @@
 All mods updated to their latest versions.
 The following mods updated:
 
-- Mirage will be updated to: `1.20.0`
+- Mirage will be updated to: `1.20.1`
 
 
 ## v1.3.2
