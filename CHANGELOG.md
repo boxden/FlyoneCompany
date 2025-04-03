@@ -1,3 +1,12 @@
+## v1.3.7
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- Mirage will be updated to: `1.24.0`
+- BepInEx_Faster_Load_AssetBundles_Patcher will be updated to: `1.0.1`
+
+
 ## v1.3.6
 
 All mods updated to their latest versions.
