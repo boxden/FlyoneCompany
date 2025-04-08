@@ -1,3 +1,11 @@
+## v1.3.8
+
+All mods updated to their latest versions.
+The following mods updated:
+
+BetterStamina will be updated to: `1.5.6`
+
+
 ## v1.3.7
 
 All mods updated to their latest versions.
