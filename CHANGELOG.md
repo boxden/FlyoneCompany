@@ -1,3 +1,12 @@
+## v1.3.9
+
+All mods updated to their latest versions.
+The following mods updated:
+
+MirageCore will be updated to: `1.0.4`
+Mirage will be updated to: `1.25.1`
+
+
 ## v1.3.8
 
 All mods updated to their latest versions.
