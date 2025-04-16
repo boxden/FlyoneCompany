@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.3.9",
+    "version_number": "1.3.10",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 86 mods",
     "dependencies": [
@@ -20,7 +20,7 @@
         "qwbarch-MirageCore-1.0.4",
         "qwbarch-Mirage-1.25.1",
         "qwbarch-MirageRevive-1.3.0",
-        "FlipMods-ReservedItemSlotCore-2.0.48",
+        "FlipMods-ReservedItemSlotCore-2.0.49",
         "FlipMods-ReservedFlashlightSlot-2.0.10",
         "FlipMods-ReservedWalkieSlot-2.0.7",
         "tinyhoot-ShipLoot-1.1.0",
@@ -76,7 +76,7 @@
         "CTMods-ToemmsensCursedSoundMod-1.0.4",
         "Bobbie-UniTask-2.5.0",
         "ButteryStancakes-EnemySoundFixes-1.7.0",
-        "loaforc-loaforcsSoundAPI-2.0.5",
+        "loaforc-loaforcsSoundAPI-2.0.6",
         "Hardy-LCMaxSoundsFix-1.2.0",
         "Renegades-WalkieUse-1.5.0",
         "Stoneman-LethalProgression-1.3.2",

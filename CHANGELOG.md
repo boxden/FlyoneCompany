@@ -1,3 +1,12 @@
+## v1.3.10
+
+All mods updated to their latest versions.
+The following mods updated:
+
+ReservedItemSlotCore will be updated to: `2.0.49`
+loaforcsSoundAPI will be updated to: `2.0.6`
+
+
 ## v1.3.9
 
 All mods updated to their latest versions.
