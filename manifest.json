@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.3.10",
+    "version_number": "1.3.11",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 86 mods",
     "dependencies": [
@@ -51,7 +51,7 @@
         "Toskan4134-LethalRegeneration-1.3.0",
         "Coppertiel-MaskedEnemyOverhaulFork-3.4.0",
         "FutureSavior-Hold_Scan_Button-1.1.2",
-        "BunyaPineTree-ModelReplacementAPI-2.4.16",
+        "BunyaPineTree-ModelReplacementAPI-2.4.17",
         "FoxGod-ThiccCompanyModelReplacement-2.0.1",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-1.0.1",

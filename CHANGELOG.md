@@ -1,3 +1,11 @@
+## v1.3.11
+
+All mods updated to their latest versions.
+The following mods updated:
+
+ModelReplacementAPI will be updated to: `2.4.17`
+
+
 ## v1.3.10
 
 All mods updated to their latest versions.
