@@ -3,7 +3,7 @@
 All mods updated to their latest versions.
 The following mods updated:
 
-ModelReplacementAPI will be updated to: `2.4.17`
+- ModelReplacementAPI will be updated to: `2.4.17`
 
 
 ## v1.3.10
@@ -11,8 +11,8 @@ ModelReplacementAPI will be updated to: `2.4.17`
 All mods updated to their latest versions.
 The following mods updated:
 
-ReservedItemSlotCore will be updated to: `2.0.49`
-loaforcsSoundAPI will be updated to: `2.0.6`
+- ReservedItemSlotCore will be updated to: `2.0.49`
+- loaforcsSoundAPI will be updated to: `2.0.6`
 
 
 ## v1.3.9
@@ -20,8 +20,8 @@ loaforcsSoundAPI will be updated to: `2.0.6`
 All mods updated to their latest versions.
 The following mods updated:
 
-MirageCore will be updated to: `1.0.4`
-Mirage will be updated to: `1.25.1`
+- MirageCore will be updated to: `1.0.4`
+- Mirage will be updated to: `1.25.1`
 
 
 ## v1.3.8
@@ -29,7 +29,7 @@ Mirage will be updated to: `1.25.1`
 All mods updated to their latest versions.
 The following mods updated:
 
-BetterStamina will be updated to: `1.5.6`
+- BetterStamina will be updated to: `1.5.6`
 
 
 ## v1.3.7
