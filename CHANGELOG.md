@@ -1,3 +1,13 @@
+## v1.3.12
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- FairAI will be updated to: `1.5.0`
+- ModelReplacementAPI will be updated to: `2.4.18`
+- LethalLib will be updated to: `1.0.3`
+
+
 ## v1.3.11
 
 All mods updated to their latest versions.
