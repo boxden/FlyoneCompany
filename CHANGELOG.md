@@ -1,3 +1,16 @@
+## v1.4.0
+
+Support for version 70
+Most mods are functional.
+Some mods may not work correctly or may contain bugs.
+Stay tuned for upcoming updates.
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- MoreCompany will be updated to: 1.11.1
+
+
 ## v1.3.12
 
 All mods updated to their latest versions.
