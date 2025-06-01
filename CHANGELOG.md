@@ -8,7 +8,7 @@ Stay tuned for upcoming updates.
 All mods updated to their latest versions.
 The following mods updated:
 
-- MoreCompany will be updated to: 1.11.1
+- MoreCompany will be updated to: `1.11.1`
 
 
 ## v1.3.12
