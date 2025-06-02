@@ -1,3 +1,12 @@
+## v1.4.1
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- LethalEmotesAPI will be updated to: `1.16.0`
+- LethalLib will be updated to: `1.1.0`
+
+
 ## v1.4.0
 
 Support for version 70
