@@ -1,3 +1,11 @@
+## v1.4.3
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- OpenBodyCams will be updated to: `3.0.6`
+
+
 ## v1.4.2
 
 All mods updated to their latest versions.
