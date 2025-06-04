@@ -1,3 +1,13 @@
+## v1.4.2
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- TheGiantSpecimens will be updated to: `2.3.0`
+- EnemySoundFixes will be updated to: `1.8.0`
+- MaskFixes will be updated to: `1.4.0`
+
+
 ## v1.4.1
 
 All mods updated to their latest versions.
