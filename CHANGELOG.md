@@ -1,3 +1,11 @@
+## v1.4.4
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- Mimics will be updated to: `2.7.0`
+
+
 ## v1.4.3
 
 All mods updated to their latest versions.
