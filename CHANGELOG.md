@@ -1,3 +1,11 @@
+## v1.4.8
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- ReservedItemSlotCore will be updated to: `2.0.50`
+
+
 ## v1.4.7
 
 All mods updated to their latest versions.
