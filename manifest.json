@@ -1,8 +1,8 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.4.6",
+    "version_number": "1.4.7",
     "website_url": "https://github.com/boxden/FlyoneCompany",
-    "description": "Fly with our company! Made for friends. Here are 86 mods",
+    "description": "Fly with our company! Made for friends. Here are 88 mods",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "notnotnotswipez-MoreCompany-1.11.2",
@@ -90,7 +90,7 @@
         "VirusTLNR-MaskedInvisFix-0.0.2",
         "VirusTLNR-MaskedFixes-0.0.3",
         "ButteryStancakes-MaskFixes-1.4.0",
-        "MonoDetour-MonoDetour-0.6.4",
-        "MonoDetour-MonoDetour_BepInEx_5-0.6.4"
+        "MonoDetour-MonoDetour-0.6.5",
+        "MonoDetour-MonoDetour_BepInEx_5-0.6.5"
     ]
 }
