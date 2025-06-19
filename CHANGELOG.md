@@ -1,3 +1,11 @@
+## v1.4.9
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- MaskFixes will be updated to: `1.4.1`
+
+
 ## v1.4.8
 
 All mods updated to their latest versions.
