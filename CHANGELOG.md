@@ -1,3 +1,14 @@
+## v1.4.10
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- DetourContext_Dispose_Fix will be updated to: `1.0.5`
+- AutoHookGenPatcher will be updated to: `1.0.7`
+- MonoDetour will be updated to: `0.6.7`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.7`
+
+
 ## v1.4.9
 
 All mods updated to their latest versions.
