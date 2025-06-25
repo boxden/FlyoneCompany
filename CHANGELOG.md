@@ -1,3 +1,11 @@
+## v1.4.11
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- FairAI will be updated to: `1.5.1`
+
+
 ## v1.4.10
 
 All mods updated to their latest versions.

@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.4.10",
+    "version_number": "1.4.11",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 88 mods",
     "dependencies": [
@@ -44,7 +44,7 @@
         "x753-Mimics-2.7.0",
         "DeathWrench-ReservedBoomboxSlot-0.1.2",
         "Sligili-HDLethalCompany-1.5.6",
-        "TheFluff-FairAI-1.5.0",
+        "TheFluff-FairAI-1.5.1",
         "Aelstraz-BetterSpectator-1.2.0",
         "FlipMods-BetterStamina-1.5.6",
         "Suskitech-AlwaysHearActiveWalkies-1.4.5",
