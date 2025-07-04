@@ -1,3 +1,14 @@
+## v1.4.12
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- ReservedItemSlotCore will be updated to: `2.0.51`
+- loaforcsSoundAPI will be updated to: `2.0.7`
+- MonoDetour will be updated to: `0.6.9`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.9`
+
+
 ## v1.4.11
 
 All mods updated to their latest versions.
