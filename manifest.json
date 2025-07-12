@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.4.12",
+    "version_number": "1.4.13",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 88 mods",
     "dependencies": [
@@ -20,7 +20,7 @@
         "qwbarch-MirageCore-1.0.4",
         "qwbarch-Mirage-1.25.2",
         "qwbarch-MirageRevive-1.3.0",
-        "FlipMods-ReservedItemSlotCore-2.0.51",
+        "FlipMods-ReservedItemSlotCore-2.0.52",
         "FlipMods-ReservedFlashlightSlot-2.0.10",
         "FlipMods-ReservedWalkieSlot-2.0.7",
         "tinyhoot-ShipLoot-1.1.0",
@@ -76,7 +76,7 @@
         "CTMods-ToemmsensCursedSoundMod-1.0.4",
         "Bobbie-UniTask-2.5.0",
         "ButteryStancakes-EnemySoundFixes-1.8.0",
-        "loaforc-loaforcsSoundAPI-2.0.7",
+        "loaforc-loaforcsSoundAPI-2.0.8",
         "Hardy-LCMaxSoundsFix-1.2.0",
         "Renegades-WalkieUse-1.5.0",
         "Stoneman-LethalProgression-1.3.2",
@@ -90,7 +90,7 @@
         "VirusTLNR-MaskedInvisFix-0.0.2",
         "VirusTLNR-MaskedFixes-0.0.3",
         "ButteryStancakes-MaskFixes-1.4.1",
-        "MonoDetour-MonoDetour-0.6.9",
-        "MonoDetour-MonoDetour_BepInEx_5-0.6.9"
+        "MonoDetour-MonoDetour-0.6.11",
+        "MonoDetour-MonoDetour_BepInEx_5-0.6.11"
     ]
 }
