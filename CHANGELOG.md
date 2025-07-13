@@ -1,3 +1,21 @@
+## v1.5.0
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- TheGiantSpecimens will be updated to: `3.0.0`
+
+Missing dependencies installed:
+- MrovLib `0.3.1`
+- LethalModDataLib `1.2.2`
+- WeatherRegistry `0.6.1`
+- ReXuvination `1.1.0`
+- PathfindingLib `0.1.1`
+- CodeRebirthLib `0.9.1`
+- LethalLevelLoader `1.4.11`
+- CodeRebirth `1.1.0`
+
+
 ## v1.4.13
 
 All mods updated to their latest versions.
