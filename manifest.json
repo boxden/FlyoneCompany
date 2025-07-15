@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.5.0",
+    "version_number": "1.5.1",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 96 mods",
     "dependencies": [
@@ -97,8 +97,8 @@
         "mrov-WeatherRegistry-0.6.1",
         "XuXiaolan-ReXuvination-1.1.0",
         "Zaggy1024-PathfindingLib-0.1.1",
-        "XuXiaolan-CodeRebirthLib-0.9.1",
+        "XuXiaolan-CodeRebirthLib-0.9.3",
         "IAmBatby-LethalLevelLoader-1.4.11",
-        "XuXiaolan-CodeRebirth-1.1.0"
+        "XuXiaolan-CodeRebirth-1.1.6"
     ]
 }

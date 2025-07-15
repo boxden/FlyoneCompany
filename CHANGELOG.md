@@ -1,3 +1,11 @@
+## v1.5.1
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- CodeRebirthLib will be updated to: `0.9.3`
+- CodeRebirth will be updated to: `1.1.6`
+
 ## v1.5.0
 
 All mods updated to their latest versions.
