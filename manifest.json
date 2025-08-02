@@ -1,6 +1,6 @@
 {
     "name": "FlyoneCompany",
-    "version_number": "1.5.1",
+    "version_number": "1.5.2",
     "website_url": "https://github.com/boxden/FlyoneCompany",
     "description": "Fly with our company! Made for friends. Here are 96 mods",
     "dependencies": [
@@ -51,7 +51,7 @@
         "Toskan4134-LethalRegeneration-1.3.0",
         "Coppertiel-MaskedEnemyOverhaulFork-3.4.0",
         "FutureSavior-Hold_Scan_Button-1.1.2",
-        "BunyaPineTree-ModelReplacementAPI-2.4.18",
+        "BunyaPineTree-ModelReplacementAPI-2.4.19",
         "FoxGod-ThiccCompanyModelReplacement-2.0.1",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-1.1.1",
@@ -75,7 +75,7 @@
         "Kittenji-LaserPointerDetonator-1.0.1",
         "CTMods-ToemmsensCursedSoundMod-1.0.4",
         "Bobbie-UniTask-2.5.0",
-        "ButteryStancakes-EnemySoundFixes-1.8.0",
+        "ButteryStancakes-EnemySoundFixes-1.8.1",
         "loaforc-loaforcsSoundAPI-2.0.8",
         "Hardy-LCMaxSoundsFix-1.2.0",
         "Renegades-WalkieUse-1.5.0",
@@ -90,15 +90,15 @@
         "VirusTLNR-MaskedInvisFix-0.0.2",
         "VirusTLNR-MaskedFixes-0.0.3",
         "ButteryStancakes-MaskFixes-1.4.1",
-        "MonoDetour-MonoDetour-0.6.11",
-        "MonoDetour-MonoDetour_BepInEx_5-0.6.11",
+        "MonoDetour-MonoDetour-0.6.14",
+        "MonoDetour-MonoDetour_BepInEx_5-0.6.14",
         "mrov-MrovLib-0.3.1",
         "MaxWasUnavailable-LethalModDataLib-1.2.2",
         "mrov-WeatherRegistry-0.6.1",
         "XuXiaolan-ReXuvination-1.1.0",
-        "Zaggy1024-PathfindingLib-0.1.1",
-        "XuXiaolan-CodeRebirthLib-0.9.3",
+        "Zaggy1024-PathfindingLib-1.0.1",
+        "XuXiaolan-CodeRebirthLib-0.9.8",
         "IAmBatby-LethalLevelLoader-1.4.11",
-        "XuXiaolan-CodeRebirth-1.1.6"
+        "XuXiaolan-CodeRebirth-1.1.11"
     ]
 }

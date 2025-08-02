@@ -1,3 +1,17 @@
+## v1.5.2
+
+All mods updated to their latest versions.
+The following mods updated:
+
+ModelReplacementAPI will be updated to: `2.4.19`
+EnemySoundFixes will be updated to: `1.8.1`
+MonoDetour will be updated to: `0.6.14`
+MonoDetour_BepInEx_5 will be updated to: `0.6.14`
+PathfindingLib will be updated to: `1.0.1`
+CodeRebirthLib will be updated to: `0.9.8`
+CodeRebirth will be updated to: `1.1.11`
+
+
 ## v1.5.1
 
 All mods updated to their latest versions.
