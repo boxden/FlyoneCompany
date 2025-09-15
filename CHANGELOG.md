@@ -1,3 +1,26 @@
+## v1.6.0
+
+Support for version 72
+Most mods are functional.
+Some mods may not work correctly or may contain bugs.
+Stay tuned for upcoming updates.
+
+All mods updated to their latest versions.
+The following mods updated:
+
+- Mirage will be updated to: `1.26.0`
+- LethalEmotesAPI will be updated to: `1.16.1`
+- OpenBodyCams will be updated to: `3.0.9`
+- FairAI will be updated to: `1.5.2`
+- CullFactory will be updated to: `2.0.0`
+- MaskFixes will be updated to: `1.5.1`
+- MonoDetour will be updated to: `0.6.16`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.16`
+- MrovLib will be updated to: `0.3.6`
+- WeatherRegistry will be updated to: `0.7.4`
+- PathfindingLib will be updated to: `2.3.2`
+
+
 ## v1.5.2
 
 All mods updated to their latest versions.
