@@ -1,11 +1,11 @@
 ## v1.6.0
 
-Support for version 72
-Most mods are functional.
-Some mods may not work correctly or may contain bugs.
-Stay tuned for upcoming updates.
+Support for version 72  
+Most mods are functional  
+Some mods may not work correctly or may contain bugs  
+Stay tuned for upcoming updates
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.26.0`
@@ -23,21 +23,21 @@ The following mods updated:
 
 ## v1.5.2
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
-ModelReplacementAPI will be updated to: `2.4.19`
-EnemySoundFixes will be updated to: `1.8.1`
-MonoDetour will be updated to: `0.6.14`
-MonoDetour_BepInEx_5 will be updated to: `0.6.14`
-PathfindingLib will be updated to: `1.0.1`
-CodeRebirthLib will be updated to: `0.9.8`
-CodeRebirth will be updated to: `1.1.11`
+- ModelReplacementAPI will be updated to: `2.4.19`
+- EnemySoundFixes will be updated to: `1.8.1`
+- MonoDetour will be updated to: `0.6.14`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.14`
+- PathfindingLib will be updated to: `1.0.1`
+- CodeRebirthLib will be updated to: `0.9.8`
+- CodeRebirth will be updated to: `1.1.11`
 
 
 ## v1.5.1
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - CodeRebirthLib will be updated to: `0.9.3`
@@ -45,7 +45,7 @@ The following mods updated:
 
 ## v1.5.0
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - TheGiantSpecimens will be updated to: `3.0.0`
@@ -63,7 +63,7 @@ Missing dependencies installed:
 
 ## v1.4.13
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - ReservedItemSlotCore will be updated to: `2.0.52`
@@ -74,7 +74,7 @@ The following mods updated:
 
 ## v1.4.12
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - ReservedItemSlotCore will be updated to: `2.0.51`
@@ -85,7 +85,7 @@ The following mods updated:
 
 ## v1.4.11
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - FairAI will be updated to: `1.5.1`
@@ -93,7 +93,7 @@ The following mods updated:
 
 ## v1.4.10
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - DetourContext_Dispose_Fix will be updated to: `1.0.5`
@@ -104,7 +104,7 @@ The following mods updated:
 
 ## v1.4.9
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - MaskFixes will be updated to: `1.4.1`
@@ -112,7 +112,7 @@ The following mods updated:
 
 ## v1.4.8
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - ReservedItemSlotCore will be updated to: `2.0.50`
@@ -120,7 +120,7 @@ The following mods updated:
 
 ## v1.4.7
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - MonoDetour will be updated to: `0.6.5`
@@ -129,7 +129,7 @@ The following mods updated:
 
 ## v1.4.6
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.25.2`
@@ -141,7 +141,7 @@ Missing dependencies installed:
 
 ## v1.4.5
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - MoreCompany will be updated to: `1.11.2`
@@ -150,7 +150,7 @@ The following mods updated:
 
 ## v1.4.4
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mimics will be updated to: `2.7.0`
@@ -158,7 +158,7 @@ The following mods updated:
 
 ## v1.4.3
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - OpenBodyCams will be updated to: `3.0.6`
@@ -166,7 +166,7 @@ The following mods updated:
 
 ## v1.4.2
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - TheGiantSpecimens will be updated to: `2.3.0`
@@ -176,7 +176,7 @@ The following mods updated:
 
 ## v1.4.1
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - LethalEmotesAPI will be updated to: `1.16.0`
@@ -185,12 +185,12 @@ The following mods updated:
 
 ## v1.4.0
 
-Support for version 70
-Most mods are functional.
-Some mods may not work correctly or may contain bugs.
-Stay tuned for upcoming updates.
+Support for version 70  
+Most mods are functional  
+Some mods may not work correctly or may contain bugs  
+Stay tuned for upcoming updates
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - MoreCompany will be updated to: `1.11.1`
@@ -198,7 +198,7 @@ The following mods updated:
 
 ## v1.3.12
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - FairAI will be updated to: `1.5.0`
@@ -208,7 +208,7 @@ The following mods updated:
 
 ## v1.3.11
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - ModelReplacementAPI will be updated to: `2.4.17`
@@ -216,7 +216,7 @@ The following mods updated:
 
 ## v1.3.10
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - ReservedItemSlotCore will be updated to: `2.0.49`
@@ -225,7 +225,7 @@ The following mods updated:
 
 ## v1.3.9
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - MirageCore will be updated to: `1.0.4`
@@ -234,7 +234,7 @@ The following mods updated:
 
 ## v1.3.8
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - BetterStamina will be updated to: `1.5.6`
@@ -242,7 +242,7 @@ The following mods updated:
 
 ## v1.3.7
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.24.0`
@@ -251,7 +251,7 @@ The following mods updated:
 
 ## v1.3.6
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.23.1`
@@ -260,7 +260,7 @@ The following mods updated:
 
 ## v1.3.5
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.23.0`
@@ -268,7 +268,7 @@ The following mods updated:
 
 ## v1.3.4
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.20.2`
@@ -276,7 +276,7 @@ The following mods updated:
 
 ## v1.3.3
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.20.1`
@@ -284,7 +284,7 @@ The following mods updated:
 
 ## v1.3.2
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - FairAI will be updated to: `1.4.6`
@@ -293,7 +293,7 @@ The following mods updated:
 
 ## v1.3.1
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.19.1`
@@ -301,7 +301,7 @@ The following mods updated:
 
 ## v1.3.0
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - DetourContext_Dispose_Fix will be updated to: `1.0.4`
@@ -322,7 +322,7 @@ The following mods updated:
 
 ## v1.2.0
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - LethalCompany_InputUtils will be updated to: `0.7.10`
@@ -340,7 +340,7 @@ Missing dependencies installed:
 
 ## v1.1.0
 
-All mods updated to their latest versions.
+All mods updated to their latest versions  
 The following mods updated:
 
 - Mirage will be updated to: `1.18.0`
@@ -358,9 +358,9 @@ Missing dependencies installed:
 
 ## v1.0.0
 
-Initial release
+Initial Release
 
-modlist:
+Modlist:
 - BepInEx BepInExPack `5.4.2100`
 - notnotnotswipez MoreCompany `1.11.0`
 - Thorlar HealthStation `1.0.1`
