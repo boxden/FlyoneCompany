@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.0",
+	"version_number": "1.6.1",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -89,7 +89,7 @@
 		"Swaggies-HandsNotFull-1.1.0",
 		"VirusTLNR-MaskedInvisFix-0.0.2",
 		"VirusTLNR-MaskedFixes-0.0.3",
-		"ButteryStancakes-MaskFixes-1.5.1",
+		"ButteryStancakes-MaskFixes-1.5.2",
 		"MonoDetour-MonoDetour-0.6.16",
 		"MonoDetour-MonoDetour_BepInEx_5-0.6.16",
 		"mrov-MrovLib-0.3.6",

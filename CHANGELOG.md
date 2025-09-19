@@ -1,3 +1,11 @@
+## v1.6.1
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MaskFixes will be updated to: `1.5.2`
+
+
 ## v1.6.0
 
 Support for version 72  
