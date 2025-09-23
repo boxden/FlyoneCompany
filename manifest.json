@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.1",
+	"version_number": "1.6.2",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -39,7 +39,7 @@
 		"NiceHairs-Symbiosis-1.0.8",
 		"FutureSavior-Boombox_Sync_Fix-1.1.3",
 		"LimeSkillZ-InfiniteBoomboxBattery-1.0.0",
-		"Zaggy1024-OpenBodyCams-3.0.9",
+		"Zaggy1024-OpenBodyCams-3.0.10",
 		"x753-More_Suits-1.5.2",
 		"x753-Mimics-2.7.0",
 		"DeathWrench-ReservedBoomboxSlot-0.1.2",
