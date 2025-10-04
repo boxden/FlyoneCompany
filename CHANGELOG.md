@@ -1,3 +1,18 @@
+## v1.6.4
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- DetourContext_Dispose_Fix will be updated to: `1.0.6`
+- AutoHookGenPatcher will be updated to: `1.0.8`
+- MonoDetour will be updated to: `0.6.18`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.18`
+- CodeRebirth will be updated to: `1.2.4`
+
+Missing dependencies installed:
+- DawLib `0.2.15`
+
+
 ## v1.6.3
 
 All mods updated to their latest versions  

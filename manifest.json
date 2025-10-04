@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.3",
+	"version_number": "1.6.4",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -11,11 +11,11 @@
 		"Rune580-LethalCompany_InputUtils-0.7.10",
 		"Renegades-FlashlightToggle-1.5.0",
 		"anormaltwig-LateCompany-1.0.18",
-		"Hamunii-DetourContext_Dispose_Fix-1.0.5",
+		"Hamunii-DetourContext_Dispose_Fix-1.0.6",
 		"qwbarch-OpusDotNet-1.0.30",
 		"qwbarch-Concentus-2.3.0",
 		"willis81808-LethalSettings-1.4.1",
-		"Hamunii-AutoHookGenPatcher-1.0.7",
+		"Hamunii-AutoHookGenPatcher-1.0.8",
 		"Bobbie-NAudio-2.2.2",
 		"qwbarch-MirageCore-1.0.4",
 		"qwbarch-Mirage-1.26.0",
@@ -90,8 +90,8 @@
 		"VirusTLNR-MaskedInvisFix-0.0.2",
 		"VirusTLNR-MaskedFixes-0.0.3",
 		"ButteryStancakes-MaskFixes-1.5.2",
-		"MonoDetour-MonoDetour-0.6.16",
-		"MonoDetour-MonoDetour_BepInEx_5-0.6.16",
+		"MonoDetour-MonoDetour-0.6.18",
+		"MonoDetour-MonoDetour_BepInEx_5-0.6.18",
 		"mrov-MrovLib-0.3.6",
 		"MaxWasUnavailable-LethalModDataLib-1.2.2",
 		"mrov-WeatherRegistry-0.7.4",
@@ -99,6 +99,7 @@
 		"Zaggy1024-PathfindingLib-2.3.2",
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
-		"XuXiaolan-CodeRebirth-1.1.11"
+		"XuXiaolan-CodeRebirth-1.2.4",
+		"TeamXiaolan-DawnLib-0.2.15"
 	]
 }
