@@ -1,8 +1,8 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.4",
+	"version_number": "1.6.5",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
-	"description": "Fly with our company! Made for friends. Here are 96 mods",
+	"description": "Fly with our company! Made for friends. Here are 97 mods",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"notnotnotswipez-MoreCompany-1.11.2",
@@ -58,7 +58,7 @@
 		"zealsprince-Locker-1.6.1",
 		"MegaPiggy-EnumUtils-1.0.5",
 		"XuXiaolan-TheGiantSpecimens-3.0.0",
-		"Evaisa-FixPluginTypesSerialization-1.1.2",
+		"Evaisa-FixPluginTypesSerialization-1.1.3",
 		"Sigurd-CSync-5.0.1",
 		"SillySquad-Arachnophilia-1.8.1",
 		"PaLaS0-ItemQuickSwitchFix-1.1.1",
@@ -99,7 +99,7 @@
 		"Zaggy1024-PathfindingLib-2.3.2",
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
-		"XuXiaolan-CodeRebirth-1.2.4",
-		"TeamXiaolan-DawnLib-0.2.15"
+		"XuXiaolan-CodeRebirth-1.2.5",
+		"TeamXiaolan-DawnLib-0.2.16"
 	]
 }

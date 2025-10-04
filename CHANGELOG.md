@@ -1,3 +1,13 @@
+## v1.6.5
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- FixPluginTypesSerialization will be updated to: `1.1.3`
+- CodeRebirth will be updated to: `1.2.5`
+- DawnLib will be updated to: `0.2.16`
+
+
 ## v1.6.4
 
 All mods updated to their latest versions  
