@@ -1,3 +1,23 @@
+## v1.6.6
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MoreCompany will be updated to: `1.12.0`
+- ReservedItemSlotCore will be updated to: `2.0.53`
+- LethalEmotesAPI will be updated to: `1.17.1`
+- Mimics will be updated to: `2.7.2`
+- FairAI will be updated to: `1.5.3`
+- BetterStamina will be updated to: `1.5.7`
+- Locker will be updated to: `1.6.2`
+- FixPluginTypesSerialization will be updated to: `1.1.4`
+- EnemySoundFixes will be updated to: `1.8.3`
+- MonoDetour will be updated to: `0.6.20`
+- MonoDetour_BepInEx_5 will be updated to: `0.6.20`
+- PathfindingLib will be updated to: `2.4.0`
+- DawnLib will be updated to: `0.3.1`
+
+
 ## v1.6.5
 
 All mods updated to their latest versions  
