@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.6",
+	"version_number": "1.6.7",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 97 mods",
 	"dependencies": [
@@ -90,8 +90,8 @@
 		"VirusTLNR-MaskedInvisFix-0.0.2",
 		"VirusTLNR-MaskedFixes-0.0.3",
 		"ButteryStancakes-MaskFixes-1.5.2",
-		"MonoDetour-MonoDetour-0.6.20",
-		"MonoDetour-MonoDetour_BepInEx_5-0.6.20",
+		"MonoDetour-MonoDetour-0.7.0",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.0",
 		"mrov-MrovLib-0.3.6",
 		"MaxWasUnavailable-LethalModDataLib-1.2.2",
 		"mrov-WeatherRegistry-0.7.4",

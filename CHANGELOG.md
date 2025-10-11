@@ -1,3 +1,12 @@
+## v1.6.7
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MonoDetour will be updated to: `0.7.0`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.0`
+
+
 ## v1.6.6
 
 All mods updated to their latest versions  
