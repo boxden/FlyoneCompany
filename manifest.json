@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.6.7",
+	"version_number": "1.7.0",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 97 mods",
 	"dependencies": [
@@ -18,7 +18,7 @@
 		"Hamunii-AutoHookGenPatcher-1.0.8",
 		"Bobbie-NAudio-2.2.2",
 		"qwbarch-MirageCore-1.0.4",
-		"qwbarch-Mirage-1.26.0",
+		"qwbarch-Mirage-1.27.0",
 		"qwbarch-MirageRevive-1.3.0",
 		"FlipMods-ReservedItemSlotCore-2.0.53",
 		"FlipMods-ReservedFlashlightSlot-2.0.10",
@@ -66,7 +66,7 @@
 		"Rolevote-The_Fiend-1.0.7",
 		"qwbarch-NAudioLame-2.1.1",
 		"Enchanted_Games-SyncedSkinwalkers-2.0.0",
-		"fumiko-CullFactory-2.0.1",
+		"fumiko-CullFactory-2.0.2",
 		"FlipMods-ReservedWeaponSlot-1.1.5",
 		"RogueCodes-ReservedKeySlot-2.0.0",
 		"DeathWrench-DisableHelmetVisor-0.0.1",
@@ -96,10 +96,10 @@
 		"MaxWasUnavailable-LethalModDataLib-1.2.2",
 		"mrov-WeatherRegistry-0.7.4",
 		"XuXiaolan-ReXuvination-1.1.0",
-		"Zaggy1024-PathfindingLib-2.4.0",
+		"Zaggy1024-PathfindingLib-2.4.1",
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
 		"XuXiaolan-CodeRebirth-1.2.5",
-		"TeamXiaolan-DawnLib-0.3.1"
+		"TeamXiaolan-DawnLib-0.3.2"
 	]
 }

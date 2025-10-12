@@ -1,3 +1,19 @@
+## v1.7.0
+
+Support for version 73  
+Most mods are functional  
+Some mods may not work correctly or may contain bugs  
+Stay tuned for upcoming updates
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- Mirage will be updated to: `1.27.0`
+- CullFactory will be updated to: `2.0.2`
+- PathfindingLib will be updated to: `2.4.1`
+- DawnLib will be updated to: `0.3.2`
+
+
 ## v1.6.7
 
 All mods updated to their latest versions  
