@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.7.0",
+	"version_number": "1.7.1",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 97 mods",
 	"dependencies": [
@@ -66,7 +66,7 @@
 		"Rolevote-The_Fiend-1.0.7",
 		"qwbarch-NAudioLame-2.1.1",
 		"Enchanted_Games-SyncedSkinwalkers-2.0.0",
-		"fumiko-CullFactory-2.0.2",
+		"fumiko-CullFactory-2.0.3",
 		"FlipMods-ReservedWeaponSlot-1.1.5",
 		"RogueCodes-ReservedKeySlot-2.0.0",
 		"DeathWrench-DisableHelmetVisor-0.0.1",
