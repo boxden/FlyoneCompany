@@ -1,3 +1,11 @@
+## v1.7.4
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- Mirage will be updated to: `1.28.0`
+
+
 ## v1.7.3
 
 All mods updated to their latest versions  
