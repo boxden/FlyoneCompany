@@ -1,3 +1,13 @@
+## v1.7.5
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MonoDetour will be updated to: `0.7.3`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.3`
+- DawnLib will be updated to: `0.3.9`
+
+
 ## v1.7.4
 
 All mods updated to their latest versions  
