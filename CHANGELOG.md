@@ -1,3 +1,14 @@
+## v1.7.6
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MonoDetour will be updated to: `0.7.4`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.4`
+- CodeRebirth will be updated to: `1.3.1`
+- DawnLib will be updated to: `0.3.10`
+
+
 ## v1.7.5
 
 All mods updated to their latest versions  
