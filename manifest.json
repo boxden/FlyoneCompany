@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.7.6",
+	"version_number": "1.7.7",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 97 mods",
 	"dependencies": [
@@ -8,7 +8,7 @@
 		"notnotnotswipez-MoreCompany-1.12.0",
 		"Thorlar-HealthStation-1.0.1",
 		"e3s1-BetterLadders-1.4.3",
-		"Rune580-LethalCompany_InputUtils-0.7.10",
+		"Rune580-LethalCompany_InputUtils-0.7.12",
 		"Renegades-FlashlightToggle-1.5.0",
 		"anormaltwig-LateCompany-1.0.18",
 		"Hamunii-DetourContext_Dispose_Fix-1.0.6",
@@ -100,6 +100,6 @@
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
 		"XuXiaolan-CodeRebirth-1.3.1",
-		"TeamXiaolan-DawnLib-0.3.10"
+		"TeamXiaolan-DawnLib-0.3.11"
 	]
 }

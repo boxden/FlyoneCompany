@@ -1,3 +1,12 @@
+## v1.7.7
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- LethalCompany_InputUtils will be updated to: `0.7.12`
+- DawnLib will be updated to: `0.3.11`
+
+
 ## v1.7.6
 
 All mods updated to their latest versions  
