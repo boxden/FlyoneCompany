@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.8.0",
+	"version_number": "1.8.1",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -99,6 +99,6 @@
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
 		"XuXiaolan-CodeRebirth-1.4.1",
-		"TeamXiaolan-DawnLib-0.4.9"
+		"TeamXiaolan-DawnLib-0.4.11"
 	]
 }

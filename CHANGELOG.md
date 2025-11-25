@@ -1,22 +1,30 @@
+## v1.8.1
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- DawnLib will be updated to: `0.4.11`
+
+
 ## v1.8.0
 
 All mods updated to their latest versions  
 The following mods updated:
 
-BepInExPack will be updated to: `5.4.2304`
-DetourContext_Dispose_Fix will be updated to: `1.0.7`
-AutoHookGenPatcher will be updated to: `1.0.9`
-FairAI will be updated to: `1.5.4`
-EnemySoundFixes will be updated to: `1.8.5`
-MonoDetour will be updated to: `0.7.5`
-MonoDetour_BepInEx_5 will be updated to: `0.7.5`
-MrovLib will be updated to: `0.3.7`
-WeatherRegistry will be updated to: `0.7.5`
-CodeRebirth will be updated to: `1.4.1`
-DawnLib will be updated to: `0.4.9`
+- BepInExPack will be updated to: `5.4.2304`
+- DetourContext_Dispose_Fix will be updated to: `1.0.7`
+- AutoHookGenPatcher will be updated to: `1.0.9`
+- FairAI will be updated to: `1.5.4`
+- EnemySoundFixes will be updated to: `1.8.5`
+- MonoDetour will be updated to: `0.7.5`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.5`
+- MrovLib will be updated to: `0.3.7`
+- WeatherRegistry will be updated to: `0.7.5`
+- CodeRebirth will be updated to: `1.4.1`
+- DawnLib will be updated to: `0.4.9`
 
 Remove mods:
-Brew-WeightlessCompany `1.0.0`
+- Brew-WeightlessCompany `1.0.0`
 
 
 ## v1.7.7
