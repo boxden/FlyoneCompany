@@ -1,3 +1,12 @@
+## v1.8.3
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- OpenBodyCams will be updated to: `3.0.11`
+- DawnLib will be updated to: `0.5.0`
+
+
 ## v1.8.2
 
 All mods updated to their latest versions  
