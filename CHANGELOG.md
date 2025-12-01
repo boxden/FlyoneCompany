@@ -1,3 +1,11 @@
+## v1.8.4
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- DawnLib will be updated to: `0.5.3`
+
+
 ## v1.8.3
 
 All mods updated to their latest versions  
