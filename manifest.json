@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.8.4",
+	"version_number": "1.8.5",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -89,8 +89,8 @@
 		"VirusTLNR-MaskedInvisFix-0.0.2",
 		"VirusTLNR-MaskedFixes-0.0.3",
 		"ButteryStancakes-MaskFixes-1.5.2",
-		"MonoDetour-MonoDetour-0.7.5",
-		"MonoDetour-MonoDetour_BepInEx_5-0.7.5",
+		"MonoDetour-MonoDetour-0.7.7",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.7",
 		"mrov-MrovLib-0.3.7",
 		"MaxWasUnavailable-LethalModDataLib-1.2.2",
 		"mrov-WeatherRegistry-0.7.5",
@@ -99,6 +99,6 @@
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.4.11",
 		"XuXiaolan-CodeRebirth-1.4.1",
-		"TeamXiaolan-DawnLib-0.5.3"
+		"TeamXiaolan-DawnLib-0.5.5"
 	]
 }
