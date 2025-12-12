@@ -1,4 +1,4 @@
-## v1.8.7
+### v1.8.7
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -8,7 +8,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.5.9`
 
 
-## v1.8.6
+### v1.8.6
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -16,7 +16,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.5.8`
 
 
-## v1.8.5
+### v1.8.5
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -26,7 +26,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.5.5`
 
 
-## v1.8.4
+### v1.8.4
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -34,7 +34,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.5.3`
 
 
-## v1.8.3
+### v1.8.3
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -43,7 +43,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.5.0`
 
 
-## v1.8.2
+### v1.8.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -51,7 +51,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.4.12`
 
 
-## v1.8.1
+### v1.8.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -59,7 +59,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.4.11`
 
 
-## v1.8.0
+### v1.8.0
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -80,7 +80,7 @@ Remove mods:
 - Brew-WeightlessCompany `1.0.0`
 
 
-## v1.7.7
+### v1.7.7
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -89,7 +89,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.11`
 
 
-## v1.7.6
+### v1.7.6
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -100,7 +100,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.10`
 
 
-## v1.7.5
+### v1.7.5
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -110,7 +110,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.9`
 
 
-## v1.7.4
+### v1.7.4
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -118,7 +118,7 @@ The following mods updated:
 - Mirage will be updated to: `1.28.0`
 
 
-## v1.7.3
+### v1.7.3
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -126,7 +126,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.4`
 
 
-## v1.7.2
+### v1.7.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -134,7 +134,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.3`
 
 
-## v1.7.1
+### v1.7.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -142,7 +142,7 @@ The following mods updated:
 - CullFactory will be updated to: `2.0.3`
 
 
-## v1.7.0
+### v1.7.0
 
 Support for version 73  
 Most mods are functional  
@@ -158,7 +158,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.2`
 
 
-## v1.6.7
+### v1.6.7
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -167,7 +167,7 @@ The following mods updated:
 - MonoDetour_BepInEx_5 will be updated to: `0.7.0`
 
 
-## v1.6.6
+### v1.6.6
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -187,7 +187,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.3.1`
 
 
-## v1.6.5
+### v1.6.5
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -197,7 +197,7 @@ The following mods updated:
 - DawnLib will be updated to: `0.2.16`
 
 
-## v1.6.4
+### v1.6.4
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -212,7 +212,7 @@ Missing dependencies installed:
 - DawLib `0.2.15`
 
 
-## v1.6.3
+### v1.6.3
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -220,7 +220,7 @@ The following mods updated:
 - CullFactory will be updated to: `2.0.1`
 
 
-## v1.6.2
+### v1.6.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -228,7 +228,7 @@ The following mods updated:
 - OpenBodyCams will be updated to: `3.0.10`
 
 
-## v1.6.1
+### v1.6.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -236,7 +236,7 @@ The following mods updated:
 - MaskFixes will be updated to: `1.5.2`
 
 
-## v1.6.0
+### v1.6.0
 
 Support for version 72  
 Most mods are functional  
@@ -259,7 +259,7 @@ The following mods updated:
 - PathfindingLib will be updated to: `2.3.2`
 
 
-## v1.5.2
+### v1.5.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -273,7 +273,7 @@ The following mods updated:
 - CodeRebirth will be updated to: `1.1.11`
 
 
-## v1.5.1
+### v1.5.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -281,7 +281,7 @@ The following mods updated:
 - CodeRebirthLib will be updated to: `0.9.3`
 - CodeRebirth will be updated to: `1.1.6`
 
-## v1.5.0
+### v1.5.0
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -299,7 +299,7 @@ Missing dependencies installed:
 - CodeRebirth `1.1.0`
 
 
-## v1.4.13
+### v1.4.13
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -310,7 +310,7 @@ The following mods updated:
 - MonoDetour_BepInEx_5 will be updated to: `0.6.11`
 
 
-## v1.4.12
+### v1.4.12
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -321,7 +321,7 @@ The following mods updated:
 - MonoDetour_BepInEx_5 will be updated to: `0.6.9`
 
 
-## v1.4.11
+### v1.4.11
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -329,7 +329,7 @@ The following mods updated:
 - FairAI will be updated to: `1.5.1`
 
 
-## v1.4.10
+### v1.4.10
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -340,7 +340,7 @@ The following mods updated:
 - MonoDetour_BepInEx_5 will be updated to: `0.6.7`
 
 
-## v1.4.9
+### v1.4.9
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -348,7 +348,7 @@ The following mods updated:
 - MaskFixes will be updated to: `1.4.1`
 
 
-## v1.4.8
+### v1.4.8
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -356,7 +356,7 @@ The following mods updated:
 - ReservedItemSlotCore will be updated to: `2.0.50`
 
 
-## v1.4.7
+### v1.4.7
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -365,7 +365,7 @@ The following mods updated:
 - MonoDetour_BepInEx_5 will be updated to: `0.6.5`
 
 
-## v1.4.6
+### v1.4.6
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -377,7 +377,7 @@ Missing dependencies installed:
 - MonoDetour_BepInEx_5 will be updated to: `0.6.4`
 
 
-## v1.4.5
+### v1.4.5
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -386,7 +386,7 @@ The following mods updated:
 - LethalLib will be updated to: `1.1.1`
 
 
-## v1.4.4
+### v1.4.4
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -394,7 +394,7 @@ The following mods updated:
 - Mimics will be updated to: `2.7.0`
 
 
-## v1.4.3
+### v1.4.3
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -402,7 +402,7 @@ The following mods updated:
 - OpenBodyCams will be updated to: `3.0.6`
 
 
-## v1.4.2
+### v1.4.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -412,7 +412,7 @@ The following mods updated:
 - MaskFixes will be updated to: `1.4.0`
 
 
-## v1.4.1
+### v1.4.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -421,7 +421,7 @@ The following mods updated:
 - LethalLib will be updated to: `1.1.0`
 
 
-## v1.4.0
+### v1.4.0
 
 Support for version 70  
 Most mods are functional  
@@ -434,7 +434,7 @@ The following mods updated:
 - MoreCompany will be updated to: `1.11.1`
 
 
-## v1.3.12
+### v1.3.12
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -444,7 +444,7 @@ The following mods updated:
 - LethalLib will be updated to: `1.0.3`
 
 
-## v1.3.11
+### v1.3.11
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -452,7 +452,7 @@ The following mods updated:
 - ModelReplacementAPI will be updated to: `2.4.17`
 
 
-## v1.3.10
+### v1.3.10
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -461,7 +461,7 @@ The following mods updated:
 - loaforcsSoundAPI will be updated to: `2.0.6`
 
 
-## v1.3.9
+### v1.3.9
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -470,7 +470,7 @@ The following mods updated:
 - Mirage will be updated to: `1.25.1`
 
 
-## v1.3.8
+### v1.3.8
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -478,7 +478,7 @@ The following mods updated:
 - BetterStamina will be updated to: `1.5.6`
 
 
-## v1.3.7
+### v1.3.7
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -487,7 +487,7 @@ The following mods updated:
 - BepInEx_Faster_Load_AssetBundles_Patcher will be updated to: `1.0.1`
 
 
-## v1.3.6
+### v1.3.6
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -496,7 +496,7 @@ The following mods updated:
 - EnemySoundFixes will be updated to: `1.7.0`
 
 
-## v1.3.5
+### v1.3.5
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -504,7 +504,7 @@ The following mods updated:
 - Mirage will be updated to: `1.23.0`
 
 
-## v1.3.4
+### v1.3.4
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -512,7 +512,7 @@ The following mods updated:
 - Mirage will be updated to: `1.20.2`
 
 
-## v1.3.3
+### v1.3.3
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -520,7 +520,7 @@ The following mods updated:
 - Mirage will be updated to: `1.20.1`
 
 
-## v1.3.2
+### v1.3.2
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -529,7 +529,7 @@ The following mods updated:
 - LethalLib will be updated to: `1.0.1`
 
 
-## v1.3.1
+### v1.3.1
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -537,7 +537,7 @@ The following mods updated:
 - Mirage will be updated to: `1.19.1`
 
 
-## v1.3.0
+### v1.3.0
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -558,7 +558,7 @@ The following mods updated:
 - MaskFixes will be updated to: `1.3.1`
 
 
-## v1.2.0
+### v1.2.0
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -576,7 +576,7 @@ Missing dependencies installed:
 - ButteryStancakes MaskFixes `1.2.2`
 
 
-## v1.1.0
+### v1.1.0
 
 All mods updated to their latest versions  
 The following mods updated:
@@ -594,7 +594,7 @@ Missing dependencies installed:
 - VirusTLNR MaskedFixes `0.0.3`
 
 
-## v1.0.0
+### v1.0.0
 
 Initial Release
 
