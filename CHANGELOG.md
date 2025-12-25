@@ -1,3 +1,20 @@
+### v1.8.9
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MrovLib will be updated to: `0.3.8`
+- MonoDetour will be updated to: `0.7.9`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.9`
+- DawnLib will be updated to: `0.5.13`
+- LethalLevelLoader will be updated to: `1.6.2`
+- Mirage will be updated to: `1.29.0`
+
+Add new mods:
+- Kittenji-NavMeshInCompany: `1.0.3`
+- Kittenji-Herobrine: `1.3.7`
+
+
 ### v1.8.8
 
 All mods updated to their latest versions  

@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.8.8",
+	"version_number": "1.8.9",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 96 mods",
 	"dependencies": [
@@ -18,7 +18,7 @@
 		"Hamunii-AutoHookGenPatcher-1.0.9",
 		"Bobbie-NAudio-2.2.2",
 		"qwbarch-MirageCore-1.0.4",
-		"qwbarch-Mirage-1.28.0",
+		"qwbarch-Mirage-1.29.0",
 		"qwbarch-MirageRevive-1.3.0",
 		"FlipMods-ReservedItemSlotCore-2.0.53",
 		"FlipMods-ReservedFlashlightSlot-2.0.10",
@@ -89,16 +89,19 @@
 		"VirusTLNR-MaskedInvisFix-0.0.2",
 		"VirusTLNR-MaskedFixes-0.0.3",
 		"ButteryStancakes-MaskFixes-1.5.2",
-		"MonoDetour-MonoDetour-0.7.8",
-		"MonoDetour-MonoDetour_BepInEx_5-0.7.8",
-		"mrov-MrovLib-0.3.7",
+		"MonoDetour-MonoDetour-0.7.9",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.9",
+		"mrov-MrovLib-0.3.8",
 		"MaxWasUnavailable-LethalModDataLib-1.2.2",
 		"mrov-WeatherRegistry-0.7.5",
 		"XuXiaolan-ReXuvination-1.1.0",
 		"Zaggy1024-PathfindingLib-2.4.1",
 		"XuXiaolan-CodeRebirthLib-0.9.8",
-		"IAmBatby-LethalLevelLoader-1.4.11",
+		"IAmBatby-LethalLevelLoader-1.6.2",
 		"XuXiaolan-CodeRebirth-1.4.1",
-		"TeamXiaolan-DawnLib-0.5.11"
+		"TeamXiaolan-DawnLib-0.5.13",
+		"NomnomAB-RollingGiant-2.6.0",
+		"Kittenji-NavMeshInCompany-1.0.3",
+		"Kittenji-Herobrine-1.3.7"
 	]
 }
