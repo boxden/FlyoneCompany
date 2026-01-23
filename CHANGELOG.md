@@ -1,3 +1,22 @@
+### v1.9.0
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- BetterLadders will be updated to: `1.5.0`
+- FairAI will be updated to: `1.5.5`
+- HandsNotFull will be updated to: `1.1.1`
+- MrovLib will be updated to: `0.4.0`
+- MonoDetour will be updated to: `0.7.10`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.10`
+- LethalLevelLoader will be updated to: `1.6.5`
+- DawnLib will be updated to: `0.7.0`
+
+Add new mods:
+- NomnomAB-RollingGiant: `2.6.0`
+- MonkeyInjectionLibrary: `1.0.2`
+
+
 ### v1.8.9
 
 All mods updated to their latest versions  
