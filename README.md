@@ -3,6 +3,6 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/boxden/FlyoneCompany/total)
 ![GitHub Release](https://img.shields.io/github/v/release/boxden/FlyoneCompany)
 
-Modpack for Lethal Company v73
+Modpack for Lethal Company v81
 
-Profile code: `019beac2-29d6-86c7-0c57-c8c2b239b0b1`
+Profile code: `019ddd80-50a4-86a3-c2ec-7a67254c1b37`

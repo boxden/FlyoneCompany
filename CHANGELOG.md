@@ -1,3 +1,41 @@
+### v1.10.0
+
+Support for version 81  
+Most mods are functional  
+Some mods may not work correctly or may contain bugs  
+Stay tuned for upcoming updates
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- BepInExPack will be updated to: `5.4.2305`
+- MoreCompany will be updated to: `1.14.0`
+- LethalCompany_InputUtils will be updated to: `0.7.13`
+- ReservedItemSlotCore will be updated to: `2.0.55`
+- LethalEmotesAPI will be updated to: `1.18.0`
+- OpenBodyCams will be updated to: `3.0.12`
+- Mimics will be updated to: `2.7.4`
+- FairAI will be updated to: `1.5.7`
+- LethalRegeneration will be updated to: `1.3.1`
+- LethalLib will be updated to: `1.2.0`
+- Locker will be updated to: `1.6.3`
+- SyncedSkinwalkers will be updated to: `2.1.1`
+- CullFactory will be updated to: `2.0.7`
+- EnemySoundFixes will be updated to: `1.9.8`
+- loaforcsSoundAPI will be updated to: `2.0.10`
+- BetterEXP will be updated to: `3.0.1`
+- MaskedInvisFix will be updated to: `0.0.3`
+- MaskFixes will be updated to: `1.6.1`
+- MonoDetour will be updated to: `0.7.13`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.13`
+- MrovLib will be updated to: `0.4.3`
+- WeatherRegistry will be updated to: `0.8.8`
+- LethalLevelLoader will be updated to: `1.6.9`
+- CodeRebirth will be updated to: `1.6.3`
+- DawnLib will be updated to: `0.9.12`
+- Herobrine will be updated to: `1.3.9`
+
+
 ### v1.9.0
 
 All mods updated to their latest versions  
