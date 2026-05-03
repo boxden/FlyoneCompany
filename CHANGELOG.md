@@ -1,3 +1,16 @@
+### v1.10.1
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- DetourContext_Dispose_Fix will be updated to: `1.0.9`
+- AutoHookGenPatcher will be updated to: `1.1.1`
+- EnemySoundFixes will be updated to: `1.9.9`
+- loaforcsSoundAPI will be updated to: `2.0.11`
+- MaskFixes will be updated to: `1.6.2`
+- DawnLib will be updated to: `0.9.13`
+
+
 ### v1.10.0
 
 Support for version 81  
