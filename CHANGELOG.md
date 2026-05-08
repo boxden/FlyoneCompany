@@ -1,3 +1,12 @@
+### v1.10.2
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- ModelReplacementAPI will be updated to: `2.4.20`
+- DawnLib will be updated to: `0.9.16`
+
+
 ### v1.10.1
 
 All mods updated to their latest versions  
