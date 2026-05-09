@@ -1,6 +1,6 @@
 {
 	"name": "FlyoneCompany",
-	"version_number": "1.10.2",
+	"version_number": "1.10.3",
 	"website_url": "https://github.com/boxden/FlyoneCompany",
 	"description": "Fly with our company! Made for friends. Here are 100 mods",
 	"dependencies": [
@@ -66,7 +66,7 @@
 		"Rolevote-The_Fiend-1.0.7",
 		"qwbarch-NAudioLame-2.1.1",
 		"Enchanted_Games-SyncedSkinwalkers-2.1.1",
-		"fumiko-CullFactory-2.0.7",
+		"fumiko-CullFactory-2.0.8",
 		"FlipMods-ReservedWeaponSlot-1.1.5",
 		"RogueCodes-ReservedKeySlot-2.0.0",
 		"DeathWrench-DisableHelmetVisor-0.0.1",
@@ -99,7 +99,7 @@
 		"XuXiaolan-CodeRebirthLib-0.9.8",
 		"IAmBatby-LethalLevelLoader-1.6.9",
 		"XuXiaolan-CodeRebirth-1.6.3",
-		"TeamXiaolan-DawnLib-0.9.16",
+		"TeamXiaolan-DawnLib-0.9.18",
 		"NomnomAB-RollingGiant-2.6.0",
 		"Kittenji-NavMeshInCompany-1.0.3",
 		"Kittenji-Herobrine-1.3.9",

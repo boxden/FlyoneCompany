@@ -5,4 +5,4 @@
 
 Modpack for Lethal Company v81
 
-Profile code: `019e050d-cb1d-1726-9f26-25963378134f`
+Profile code: `019e0bd5-2ad3-04f4-9fc3-94773da91871`
