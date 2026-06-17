@@ -1,3 +1,20 @@
+### v1.10.4
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- Mirage will be updated to: `1.29.1`
+- FairAI will be updated to: `1.5.9`
+- CullFactory will be updated to: `2.0.11`
+- EnemySoundFixes will be updated to: `1.9.12`
+- MonoDetour will be updated to: `0.7.14`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.14`
+- MrovLib will be updated to: `0.4.6`
+- LethalLevelLoader will be updated to: `1.7.7`
+- CodeRebirth will be updated to: `1.6.4`
+- DawnLib will be updated to: `0.9.24`
+
+
 ### v1.10.3
 
 All mods updated to their latest versions  
