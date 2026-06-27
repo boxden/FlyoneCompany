@@ -1,3 +1,14 @@
+### v1.10.5
+
+All mods updated to their latest versions  
+The following mods updated:
+
+- MonoDetour will be updated to: `0.7.15`
+- MonoDetour_BepInEx_5 will be updated to: `0.7.15`
+- MrovLib will be updated to: `0.4.10`
+- CodeRebirth will be updated to: `1.6.6`
+
+
 ### v1.10.4
 
 All mods updated to their latest versions  
